@@ -3,7 +3,7 @@ C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Poolio.Tests.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Poolio.Tests.pdb
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Newtonsoft.Json.dll
-C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Poolio.dll
+C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Poolio.Web.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Web.Helpers.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Web.Mvc.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Web.Razor.dll
@@ -24,7 +24,7 @@ C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Microsoft.Owin.Host.SystemW
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Web.Http.WebHost.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Net.Http.Formatting.dll
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Poolio.pdb
+C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Poolio.Web.pdb
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Web.Helpers.xml
 C:\Repositories\Poolio\Poolio\Poolio.Tests\bin\Debug\System.Web.Mvc.xml

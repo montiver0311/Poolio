@@ -1,1 +1,9 @@
-C:\Repositories\Poolio\Poolio\Poolio.Data\obj\Debug\Poolio.Data.csprojResolveAssemblyReference.cache
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\Poolio.Data.dll.config
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\Poolio.Data.dll
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\Poolio.Data.pdb
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\EntityFramework.dll
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\EntityFramework.xml
+C:\Repositories\Poolio\Poolio\Poolio.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositories\Poolio\Poolio\Poolio.Data\obj\Debug\Poolio.Data.dll
+C:\Repositories\Poolio\Poolio\Poolio.Data\obj\Debug\Poolio.Data.pdb

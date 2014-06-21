@@ -1,6 +1,6 @@
-C:\Repositories\Poolio\Poolio\Poolio\bin\Poolio.dll.config
-C:\Repositories\Poolio\Poolio\Poolio\bin\Poolio.dll
-C:\Repositories\Poolio\Poolio\Poolio\bin\Poolio.pdb
+C:\Repositories\Poolio\Poolio\Poolio\bin\Poolio.Web.dll.config
+C:\Repositories\Poolio\Poolio\Poolio\bin\Poolio.Web.dll
+C:\Repositories\Poolio\Poolio\Poolio\bin\Poolio.Web.pdb
 C:\Repositories\Poolio\Poolio\Poolio\bin\Antlr3.Runtime.dll
 C:\Repositories\Poolio\Poolio\Poolio\bin\EntityFramework.dll
 C:\Repositories\Poolio\Poolio\Poolio\bin\EntityFramework.SqlServer.dll
@@ -56,6 +56,6 @@ C:\Repositories\Poolio\Poolio\Poolio\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Repositories\Poolio\Poolio\Poolio\bin\Microsoft.Owin.Security.Google.xml
 C:\Repositories\Poolio\Poolio\Poolio\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Repositories\Poolio\Poolio\Poolio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Repositories\Poolio\Poolio\Poolio\obj\Debug\Poolio.Web.dll
+C:\Repositories\Poolio\Poolio\Poolio\obj\Debug\Poolio.Web.pdb
 C:\Repositories\Poolio\Poolio\Poolio\obj\Debug\Poolio.Web.csprojResolveAssemblyReference.cache
-C:\Repositories\Poolio\Poolio\Poolio\obj\Debug\Poolio.dll
-C:\Repositories\Poolio\Poolio\Poolio\obj\Debug\Poolio.pdb
