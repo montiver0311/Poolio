@@ -1,0 +1,5 @@
+C:\Repositories\Poolio\Poolio\Poolio.Services\bin\Debug\Poolio.Services.dll
+C:\Repositories\Poolio\Poolio\Poolio.Services\bin\Debug\Poolio.Services.pdb
+C:\Repositories\Poolio\Poolio\Poolio.Services\obj\Debug\Poolio.Services.csprojResolveAssemblyReference.cache
+C:\Repositories\Poolio\Poolio\Poolio.Services\obj\Debug\Poolio.Services.dll
+C:\Repositories\Poolio\Poolio\Poolio.Services\obj\Debug\Poolio.Services.pdb

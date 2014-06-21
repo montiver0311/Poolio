@@ -1,0 +1,1 @@
+C:\Repositories\Poolio\Poolio\Poolio.Data\obj\Debug\Poolio.Data.csprojResolveAssemblyReference.cache

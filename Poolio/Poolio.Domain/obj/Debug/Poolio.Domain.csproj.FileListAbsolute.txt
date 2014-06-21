@@ -1,0 +1,5 @@
+C:\Repositories\Poolio\Poolio\Poolio.Domain\bin\Debug\Poolio.Domain.dll
+C:\Repositories\Poolio\Poolio\Poolio.Domain\bin\Debug\Poolio.Domain.pdb
+C:\Repositories\Poolio\Poolio\Poolio.Domain\obj\Debug\Poolio.Domain.csprojResolveAssemblyReference.cache
+C:\Repositories\Poolio\Poolio\Poolio.Domain\obj\Debug\Poolio.Domain.dll
+C:\Repositories\Poolio\Poolio\Poolio.Domain\obj\Debug\Poolio.Domain.pdb
